@@ -1,6 +1,6 @@
 ###
 
-<h1>Hi there, I'm Salazar. 🖤🤍 <a href="https://github.com/Salaz111/"> </a> <img
+<h1>Hi there, I'm Salazar. ❤️🤍 <a href="https://github.com/Salaz111/"> </a> <img
         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
 
 ## Junior Bot Developer
